@@ -238,3 +238,6 @@ This repository serves as the official landing page for GApp. The software is di
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of GApp today!**
+
+---
+**Last updated:** 2026-09-09 23:36:43 UTC
